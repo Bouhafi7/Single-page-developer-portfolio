@@ -16,24 +16,23 @@ Users should be able to:
     - The email address is not formatted correctly
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-- ###### Bonus: Hook the form up so it sends and stores the user's enquiry (you can use a spreadsheet or Airtable to save the enquiries)
-- ###### Bonus: Add your own details (image, skills, projects) to replace the ones in the design
+- `Bonus`: Hook the form up so it sends and stores the user's enquiry (you can use a spreadsheet or Airtable to save the enquiries)
+- `Bonus`: Add your own details (image, skills, projects) to replace the ones in the design
 
 ### Screenshot
 
-![](https://res.cloudinary.com/dz209s6jk/image/upload/v1561033463/Challenges/czn2dxiirs6ld3lqegmr.jpg)
+![](https://res.cloudinary.com/dz209s6jk/image/upload/v1668186598/Challenges/txrtsxgbdjxjwamhysxx.jpg)
 
 ### Links
 
--   Solution URL: [Github](https://github.com/Bouhafi7/Bookmark-landing-page)
--   Live Site URL: [Render](https://bookmark-landing-page.onrender.com/)
+-   Solution URL: [Github](https://github.com/Bouhafi7/Single-page-developer-portfolio)
+-   Live Site URL: [Render](https://single-page-developer-portfolio.onrender.com/)
 
 ### Built with
 
 -   Semantic HTML5 markup
--   Pure CSS
+-   Tailwind CSS
 -   Flexbox
--   Desktop-first workflow
 -   JavaScript
 
 ## Author
