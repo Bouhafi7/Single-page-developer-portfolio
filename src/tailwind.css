@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: Space Grotesk;
+}
+
+@media (min-width:781px){
+    .container{
+        width: 750px;
+    }
+}
+
+@media (min-width:991px){
+    .container{
+        width: 970px;
+    }
+}
+
+@media (min-width:1191px){
+    .container{
+        width: 1150px;
+    }
+}
+
+.container{
+    margin: auto;
+    padding-inline: 20px;
+}
+
+header .container div > img:hover,
+footer a > img:hover {
+    filter: invert(80%) sepia(83%) saturate(384%) hue-rotate(78deg) brightness(95%) contrast(86%);
+}
+
+.design-portfolio{
+    background-image: url(images/thumbnail-project-1-large.webp);
+}
+
+.e-learning{
+    background-image: url(images/thumbnail-project-2-large.webp);
+}
+
+.todo-app{
+    background-image: url(images/thumbnail-project-3-large.webp);
+}
+
+.entertainment{
+    background-image: url(images/thumbnail-project-4-large.webp);
+}
+
+.memory-game{
+    background-image: url(images/thumbnail-project-5-large.webp);
+}
+
+.art-gallery{
+    background-image: url(images/thumbnail-project-6-large.webp);
+}
+
+@media (max-width:991px){
+    .design-portfolio{
+        background-image: url(images/thumbnail-project-1-small.webp);
+    }
+    
+    .e-learning{
+        background-image: url(images/thumbnail-project-2-small.webp);
+    }
+    
+    .todo-app{
+        background-image: url(images/thumbnail-project-3-small.webp);
+    }
+    
+    .entertainment{
+        background-image: url(images/thumbnail-project-4-small.webp);
+    }
+    
+    .memory-game{
+        background-image: url(images/thumbnail-project-5-small.webp);
+    }
+    
+    .art-gallery{
+        background-image: url(images/thumbnail-project-6-small.webp);
+    }
+}
+
+.project:hover > a{
+    opacity: 1;
+    visibility: visible;
+}
