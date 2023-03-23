@@ -16,8 +16,8 @@ Users should be able to:
     - The email address is not formatted correctly
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-- ######Bonus: Hook the form up so it sends and stores the user's enquiry (you can use a spreadsheet or Airtable to save the enquiries)
-- ######Bonus: Add your own details (image, skills, projects) to replace the ones in the design
+- ###### Bonus: Hook the form up so it sends and stores the user's enquiry (you can use a spreadsheet or Airtable to save the enquiries)
+- ###### Bonus: Add your own details (image, skills, projects) to replace the ones in the design
 
 ### Screenshot
 
